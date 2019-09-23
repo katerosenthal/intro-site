@@ -15,7 +15,7 @@ You can write in `Code`
 ### Small Header
 
 ```markdown
-This should appear in box 
+This should appear in a box 
 ```
 
 Clicking [Here](https://katerosenthal.github.io/) should bring you right back to my page.
