@@ -6,7 +6,7 @@ This page as it currently appears was created using github tutorials for a unive
 
 You can write in **bold**
 
-You can write in *italic*
+You can write in *italics*
 
 You can write in `Code`
 
