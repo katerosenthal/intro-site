@@ -4,17 +4,20 @@ This page as it currently appears was created using github tutorials for a unive
 
 ### Just Practicing
 
-**Bold**
-*Italic*
-`Code`
+You can write in **bold**
+You can write in *italic*
+You can write in `Code`
 
-# Header 1
-## Header 2
-### Header 3
+# Big Header
+## Medium Header
+### Small Header
 
 ```markdown
 This should appear in box 
 ```
 
 Clicking [Here](https://katerosenthal.github.io/) should bring you right back to my page.
-[Image](src)
+
+The other part of this assignment included creating a brand new repository. Mine can be found [Here](https://github.com/katerosenthal/hello-world).
+
+
