@@ -5,7 +5,9 @@ This page as it currently appears was created using github tutorials for a unive
 ### Just Practicing
 
 You can write in **bold**
+
 You can write in *italic*
+
 You can write in `Code`
 
 # Big Header
